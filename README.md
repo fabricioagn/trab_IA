@@ -52,4 +52,5 @@ Execute o comando de instalação das bibliotecas:
 
 Bash
 !pip install -q google-genai panel python-dotenv
+!pip install jupyter_bokeh
 Cole o código do arquivo main.py em uma célula e execute para renderizar a interface do chat diretamente na tela do notebook.
